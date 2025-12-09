@@ -1,3 +1,7 @@
+Họ Tên : Lê Anh Tuấn
+MSSV : 2224801030317
+
+
 # 📝 Flutter Notes App
 
 Ứng dụng ghi chú đơn giản nhưng mạnh mẽ, được xây dựng bằng Flutter theo kiểu Material 3.  

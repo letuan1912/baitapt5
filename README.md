@@ -1,31 +1,50 @@
-Họ và tên: Nguyễn Thành Nhân 
+# 📝 Flutter Notes App
 
-Mssv: 2224801030136
+Ứng dụng ghi chú đơn giản nhưng mạnh mẽ, được xây dựng bằng Flutter theo kiểu Material 3.  
+App hỗ trợ ghi chú nhiều màu, chế độ tối, tìm kiếm thời gian thực và chỉnh sửa ghi chú dễ dàng.
 
-📘 Note App – Exercise Week 5 (Flutter)
+---
 
-Ứng dụng ghi chú đơn giản được xây dựng bằng Flutter, sử dụng Provider để quản lý trạng thái.
-Bài này thực hiện theo yêu cầu của Exercise Week 5.
+## 📸 Giao diện ứng dụng
 
-🚀 Tính năng
+### ⭐ Màn hình chính
+![Home Screen](images/home.png)
 
-📝 Thêm ghi chú mới
+### ⭐ Thêm ghi chú mới
+![New Note](images/new_note.png)
 
-❌ Xóa ghi chú
+### ⭐ Chỉnh sửa ghi chú
+![Edit Note](images/edit_note.png)
 
-📦 Quản lý trạng thái bằng Provider
+### ⭐ Tìm kiếm ghi chú
+![Search Note](images/search_note.png)
 
-🏗 Tổ chức project theo mô hình chuẩn
-🧩 Mô tả ngắn gọn các file chính
+---
 
-Model ghi chú (id, title, content).
+## ✨ Tính năng nổi bật
 
-Quản lý danh sách ghi chú, thêm/xóa bằng Provider.
+### ✔ Tạo ghi chú
+- Nhập tiêu đề và nội dung  
+- Chọn màu ghi chú giống Google Keep  
 
-Service xử lý tác vụ (mock API / future control).
+### ✔ Sửa ghi chú
+- Cập nhật nội dung  
+- Đổi màu ghi chú  
+- Tự động lưu thời gian chỉnh sửa  
 
-Widget hiển thị từng ghi chú.
+### ✔ Tìm kiếm thời gian thực
+- Lọc theo tiêu đề hoặc nội dung  
+- Hiển thị ngay khi nhập  
 
-Hiển thị danh sách ghi chú.
+### ✔ Dark Mode
+- Chuyển đổi theme Light / Dark  
+- Giao diện Material You hiện đại  
 
-Form nhập ghi chú mới.
+### ✔ UI Material 3
+- Card mềm mại, layout đẹp  
+- Màu sắc theo Material You  
+
+---
+
+## 📂 Cấu trúc thư mục
+
